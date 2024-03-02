@@ -3,13 +3,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/iadarshmishra/MedTech-Hospital-Management-System.git
+  git clone https://github.com/iadarshmishra/medtech-management-system.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd MedTech-Hospital-Management-System
+  cd medtech-management-system
 ```
 
 Install dependencies
