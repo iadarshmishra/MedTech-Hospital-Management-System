@@ -3,13 +3,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-agrawal6/Hospital-Management-System.git
+  git clone https://github.com/iadarshmishra/MedTech-Hospital-Management-System.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Hospital-Management-System
+  cd MedTech-Hospital-Management-System
 ```
 
 Install dependencies
@@ -24,7 +24,7 @@ Start the server
   npm run start
 ```
 
-# Hospital-Management-System-User-Side
+# MedTech-Hospital-Management-System
 This website is made for the user interaction only , where the user or patients can book appointments , can get their reports online , know the details about the hospital, Doctors and many more information...
 
 ## Tech Stack
@@ -67,7 +67,7 @@ Client - https://hms-user-side.netlify.app/
 
 Staff Dashboard - https://hm-system.netlify.app/
 
-Server - https://github.com/piyush-agrawal6/HMS-Backend
+Server - https://github.com/iadarshmishra/HMS-Backend
 
 ## Screenshots
 
