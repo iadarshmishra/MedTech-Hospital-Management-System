@@ -105,7 +105,8 @@ Link - <a href="https://drive.google.com/file/d/1xwcSsjdl6QHnJ-JXl11moBAwSqSQFRj
 
 ## Team Members / Contributors
 
-- [@Piyush Agrawal](https://github.com/piyush-agrawal6)
-- [@Rajendra Patel](https://github.com/centauricoder01)
-- [@Salman Ajani](https://github.com/SalmanAjani)
+- [@Adarsh Mishra](https://github.com/iadarshmishra)
+- [@Abutalha](https://github.com/iadarshmishra)
+- [@Abis Raza](https://github.com/iadarshmishra)
+- [@Mohd huzaifa](https://github.com/iadarshmishra)
 
